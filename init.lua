@@ -608,6 +608,7 @@ require('lazy').setup({
         texlab = {},
         -- Nix lsp (use for nixos config :3)
         rnix = {},
+        powershell_es = {},
         -- TODO swift lsp for iOS development
         --sourcekit = {
         --  cmd = {
